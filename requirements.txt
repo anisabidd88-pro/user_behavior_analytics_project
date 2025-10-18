@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+psycopg2-binary
+dbt-core
+dbt-postgres
+kafka-python
+confluent-kafka
+scikit-learn
+python-dotenv
+requests
+pytest

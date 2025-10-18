@@ -1,0 +1,4 @@
+id,source,event_name,event_properties,event_time
+1,posthog,page_view,"{""path"":""/home"",""title"":""Home""}","2025-10-10T12:00:00+00:00"
+2,posthog,product_view,"{""product_id"":""SKU-123"",""category"":""books""}","2025-10-10T12:01:10+00:00"
+3,posthog,signup,"{""method"":""email""}","2025-10-10T12:05:00+00:00"

@@ -1,0 +1,3 @@
+id,event,path,status,time
+1,http_request,/api/health,200,2025-10-10T12:00:05+00:00
+2,http_request,/api/products,200,2025-10-10T12:02:00+00:00

@@ -1,0 +1,6 @@
+version: 2
+models:
+  - name: staging_raw_events
+    description: 'Normalized raw event data'
+  - name: mart_user_scoring
+    description: 'User scoring mart for Product & Marketing'

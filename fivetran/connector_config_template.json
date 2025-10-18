@@ -1,0 +1,10 @@
+{
+  "connector_id": "replace_with_connector_id",
+  "service": "posthog",
+  "config": {
+    "api_key": "REPLACE_WITH_API_KEY",
+    "project_id": "REPLACE_WITH_PROJECT_ID",
+    "destination_schema": "public",
+    "destination_table": "raw_events"
+  }
+}
